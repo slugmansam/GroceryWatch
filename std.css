@@ -119,6 +119,7 @@
     /* show menu when active */
     #nav ul.active {
         display: flex;
+        align-items: center;
     }
 
     /* show hamburger menu */ 
